@@ -1,6 +1,6 @@
 {
   "name": "gryd",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Gryd development platform module",
   "keywords": ["gryd","API","REST","framework","tools"],
   "main": "./lib/gryd.js",
