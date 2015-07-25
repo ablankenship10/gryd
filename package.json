@@ -1,14 +1,13 @@
 {
   "name": "gryd",
-  "version": "0.4.3",
+  "version": "0.5.0",
   "description": "Gryd development platform module",
   "keywords": [
     "gryd",
     "API",
     "REST",
     "framework",
-    "tools",
-    "cluster"
+    "tools"
   ],
   "main": "./lib/gryd.js",
   "author": "Aaron Blankenship",
@@ -18,12 +17,10 @@
     "url": "https://github.com/ablankenship10/gryd.git"
   },
   "dependencies": {
-    "async": "^0.9.0",
-    "bunyan": "^1.2.1",
-    "express": "^4.10.1",
-    "gryd-docs": "^0.1.2",
+    "bunyan": "^1.4.0",
+    "express": "^4.13.1",
     "gryd-validator": "^0.1.3",
-    "lodash": "^2.4.1",
-    "mongoose": "3.8.23"
+    "lodash": "^3.10.0",
+    "mongoose": "^4.1.0"
   }
 }
