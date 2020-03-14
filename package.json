@@ -21,6 +21,6 @@
     "express": "^4.13.1",
     "gryd-validator": "^0.1.3",
     "lodash": "^3.10.0",
-    "mongoose": "^4.1.0"
+    "mongoose": "^5.0.0"
   }
 }
